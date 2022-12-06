@@ -1,5 +1,5 @@
 {
-	"name": "NITHEESH",
+	"name": "🍒NITHEESH🍒",
 	"description": "Wa Bot.",
 	"keywords": [
 		"whatsapp",
@@ -11,7 +11,7 @@
         "HANDLERS": {
             "description": "Prefix of commands. Can be also false",
             "required": true,
-            "value":".,"
+            "value":"."
         },
         "ANTILINK_WARN": {
             "description": "Groups for antilink (JIDS)",
@@ -31,12 +31,12 @@
        "HEROKU_API_KEY": {
             "description": "For updating bot and setting vars remotely",
             "required": true,
-            "value":"tharathila🤭"
+            "value":"https://github.com/NITHEESHNS/raganork-md"
         },
         "HEROKU_APP_NAME": {
             "description": "Exact name which you gave at the top",
             "required": true,
-            "value":""
+            "value":"NITHEESHNS"
         },
         "STICKER_DATA": {
             "description": "Name of stickers created using bot. Can also split using ;",
